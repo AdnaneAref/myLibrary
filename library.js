@@ -1,3 +1,3 @@
-$(document).ready(function(){
-  alert("hi");
-});
+window.onload = function(){
+  alert("load this");
+}
