@@ -1,3 +1,3 @@
 window.onload = function(){
-  document.html.setAttribute("copyright","adnane");
+  document.html.setAttribute("copyrights","adnane");
 }
